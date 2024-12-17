@@ -24,8 +24,8 @@ O projeto é estruturado conforme segue:
 ```bash
 financeiro-analise/
 │
-├── pythonFinanceiro.ipynb   # Notebook principal do projeto.
-├── data/                    # Dados extraídos ou preparados.                 # Gráficos e visualizações geradas.
+├── pythonFinanceiro.ipynb   # Notebook principal do projeto, com gráficos e análises.
+├── data/                    # Dados extraídos ou preparados.               
 ├── models/                  # Modelos de Machine Learning (em breve).
 ├── requirements.txt         # Lista de bibliotecas necessárias.
 └── README.md                # Documentação do projeto.
