@@ -75,11 +75,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quise
   - **Redes Neurais** (LSTM ou GRU)
 - Criar visualizações interativas usando **Plotly** ou **Seaborn**.
 
-## Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
-**Autor**: Seu Nome  
-**Contato**: seuemail@exemplo.com
+**Autor**: [![github: lgregs](https://github.com/lgregs)]
 
