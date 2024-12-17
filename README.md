@@ -77,5 +77,5 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quise
 
 ---
 
-**Autor**: [![lgregs](https://github.com/lgregs)]
+**Autor**: [lgregs](https://github.com/lgregs)
 
