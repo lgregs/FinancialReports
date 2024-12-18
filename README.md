@@ -45,27 +45,8 @@ financeiro-analise/
 
 3. Execute o notebook em um ambiente Jupyter ou Colab.
 
-## Execução do Notebook
-Se você estiver usando o Google Colab, clique no botão abaixo para abrir o notebook:
-
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/financeiro-analise/blob/main/pythonFinanceiro.ipynb)
-
 ## Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quiser implementar novas funcionalidades, siga os passos abaixo:
-1. Fork o repositório.
-2. Crie uma nova branch com sua feature:
-   ```bash
-   git checkout -b feature/nova-feature
-   ```
-3. Commit suas alterações:
-   ```bash
-   git commit -m "Adiciona nova feature"
-   ```
-4. Envie suas alterações:
-   ```bash
-   git push origin feature/nova-feature
-   ```
-5. Abra um Pull Request.
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quiser implementar novas funcionalidades, fique à vontade!
 
 ## Proximos Passos
 - Realizar uma análise exploratória completa dos dados.
