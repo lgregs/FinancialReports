@@ -50,7 +50,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quise
 
 ## Proximos Passos / To do:
 - Realizar uma análise exploratória mais completa dos dados.
-- Separar codigo de requests e utilizar somente arquivos baixados.
+- Separar codigo de requests da lib yfinance e utilizar somente arquivos baixados.
 - Dividir carteira de acoes em duas.
 - plotar grafico de historicos com plotly.
 - Calcular Taxa de Retorno Diaria e Anual.
