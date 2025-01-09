@@ -25,9 +25,9 @@ O projeto é estruturado conforme segue:
 financeiro-analise/
 │
 ├── pythonFinanceiro.ipynb   # Notebook principal do projeto, com gráficos e análises.
-├── data/                    # Dados extraídos ou preparados.               
+├── data/                    # Dados extraídos ou preparados. (em breve).              
 ├── models/                  # Modelos de Machine Learning (em breve).
-├── requirements.txt         # Lista de bibliotecas necessárias.
+├── requirements.txt         # Lista de bibliotecas necessárias. (em breve).
 └── README.md                # Documentação do projeto.
 ```
 
@@ -48,13 +48,17 @@ financeiro-analise/
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quiser implementar novas funcionalidades, fique à vontade!
 
-## Proximos Passos
-- Realizar uma análise exploratória completa dos dados.
-- Implementar modelos de machine learning, como:
-  - **Regressão Linear**
-  - **ARIMA** e modelos de séries temporais
-  - **Redes Neurais** (LSTM ou GRU)
-- Criar visualizações interativas usando **Plotly** ou **Seaborn**.
+## Proximos Passos / To do:
+- Realizar uma análise exploratória mais completa dos dados.
+- Separar codigo de requests e utilizar somente arquivos baixados.
+- Dividir carteira de acoes em duas.
+- plotar grafico de historicos com plotly.
+- Calcular Taxa de Retorno Diaria e Anual.
+- Calcular Taxa de Retorno Logaritimica Diaria e Anual.
+- Taxa de Retorno das Carteiras.
+- Calculo de Riscos em Acoes.
+- CAPM (Capital Asset Pricing Model).
+- Previsao de precos futuros com modelos de IA e Series Temporais.
 
 ---
 
