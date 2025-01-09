@@ -34,8 +34,8 @@ financeiro-analise/
 ## Instalação e Configuração
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-usuario/financeiro-analise.git
-   cd financeiro-analise
+   git clone https://github.com/lgregs/FinancialReports.git
+   cd FinancialReports
    ```
 
 2. Instale as dependências necessárias:
