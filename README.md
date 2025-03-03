@@ -11,7 +11,7 @@ This project will have financial analysis with python. First enphasizing data sc
 3. Preparar os dados para aplicação de modelos de **machine learning**.
 4. Implementar modelos de **ML** para previsão e análise de desempenho financeiro.
 5. Identificar bons momentos de compra das ações analisadas.
-
+--
 1. Collect historical financial data using libraries such as **yfinance**.
 2. Perform initial exploratory data analysis (EDA - Exploratory Data Analysis).
 3. Prepare data for application of **machine learning** models.
