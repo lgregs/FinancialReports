@@ -1,9 +1,19 @@
 # Análise Financeira com Python (Financial Analysis with Python)
 
+[in development ...]
+
 ## Descrição do Projeto (Project Description)
-Este projeto é o início de uma série de análises financeiras utilizando Python. Inicialmente, o foco é na coleta e manipulação de dados financeiros de empresas brasileiras, como **ITAÚ**, **AMBEV**, **PETROBRAS** e entre outras com a biblioteca **yfinance**. Futuramente, pretende-se implementar métodos de **machine learning** para prever tendências de mercado e realizar análises mais aprofundadas.
 
 This project will have financial analysis with python. First enphasizing data scrapping, cleannig and manipulation from brazilian companies such as  **ITAÚ**, **AMBEV**, **PETROBRAS** and many others. In the future is intended to apply **Machine Learning** methods to predict market trends and analyze possible buying gaps.
+
+Este projeto é o início de uma série de análises financeiras utilizando Python. Inicialmente, o foco é na coleta e manipulação de dados financeiros de empresas brasileiras, como **ITAÚ**, **AMBEV**, **PETROBRAS** e entre outras com a biblioteca **yfinance**. Futuramente, pretende-se implementar métodos de **machine learning** para prever tendências de mercado e realizar análises mais aprofundadas.
+
+## Objectives 
+1. Collect historical financial data using libraries such as **yfinance**.
+2. Perform initial exploratory data analysis (EDA - Exploratory Data Analysis).
+3. Prepare data for application of **machine learning** models.
+4. Implement **ML** models for forecasting and analyzing financial performance.
+5. Identify possible buying gaps.
 
 ## Objetivos
 1. Coletar dados históricos financeiros utilizando bibliotecas como **yfinance**.
@@ -11,12 +21,7 @@ This project will have financial analysis with python. First enphasizing data sc
 3. Preparar os dados para aplicação de modelos de **machine learning**.
 4. Implementar modelos de **ML** para previsão e análise de desempenho financeiro.
 5. Identificar bons momentos de compra das ações analisadas.
-## Objectives 
-1. Collect historical financial data using libraries such as **yfinance**.
-2. Perform initial exploratory data analysis (EDA - Exploratory Data Analysis).
-3. Prepare data for application of **machine learning** models.
-4. Implement **ML** models for forecasting and analyzing financial performance.
-5. Identify possible buying gaps.
+
 
 ## Ferramentas e Bibliotecas Utilizadas (Libs and Tools)
 - [Python](https://www.python.org/)
