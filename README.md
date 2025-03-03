@@ -35,7 +35,7 @@ The project will have the following structure:
 financeiro-analise/
 │
 ├── pythonFinanceiro.ipynb   # EDA. Exploratory Data Analysis
-├── data.csv                 # Dados extraídos. Extracted Data              
+├── acoes.csv                 # Dados extraídos. Extracted Data              
 ├── models.ipynb             # Modelos de Machine Learning (em breve). ML Models
 ├── requirements.txt         # Lista de bibliotecas necessárias. (em breve). Libs and requirements to run the code.
 └── README.md                # Documentação do projeto. Documentation
