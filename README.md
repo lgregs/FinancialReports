@@ -5,13 +5,13 @@ Este projeto é o início de uma série de análises financeiras utilizando Pyth
 
 This project will have financial analysis with python. First enphasizing data scrapping, cleannig and manipulation from brazilian companies such as  **ITAÚ**, **AMBEV**, **PETROBRAS** and many others. In the future is intended to apply **Machine Learning** methods to predict market trends and analyze possible buying gaps.
 
-## Objetivos (Objectives)
+## Objetivos
 1. Coletar dados históricos financeiros utilizando bibliotecas como **yfinance**.
 2. Realizar análises exploratórias iniciais dos dados (EDA - Exploratory Data Analysis).
 3. Preparar os dados para aplicação de modelos de **machine learning**.
 4. Implementar modelos de **ML** para previsão e análise de desempenho financeiro.
 5. Identificar bons momentos de compra das ações analisadas.
---
+## Objectives 
 1. Collect historical financial data using libraries such as **yfinance**.
 2. Perform initial exploratory data analysis (EDA - Exploratory Data Analysis).
 3. Prepare data for application of **machine learning** models.
