@@ -1,4 +1,4 @@
-# Projeto: Análise Financeira com Python (Project: Financial Analysis with Python)
+# Análise Financeira com Python (Financial Analysis with Python)
 
 ## Descrição do Projeto (Project Description)
 Este projeto é o início de uma série de análises financeiras utilizando Python. Inicialmente, o foco é na coleta e manipulação de dados financeiros de empresas brasileiras, como **ITAÚ**, **AMBEV**, **PETROBRAS** e entre outras com a biblioteca **yfinance**. Futuramente, pretende-se implementar métodos de **machine learning** para prever tendências de mercado e realizar análises mais aprofundadas.
