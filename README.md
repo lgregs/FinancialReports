@@ -1,8 +1,8 @@
-# Análise Financeira com Python (Financial Analysis with Python)
+# Financial Analysis with Python (Análise Financeira com Python )
 
 [in development ...]
 
-## Descrição do Projeto (Project Description)
+##  Project Description (Descrição do Projeto)
 
 This project will have financial analysis with python. First enphasizing data scrapping, cleannig and manipulation from brazilian companies such as  **ITAÚ**, **AMBEV**, **PETROBRAS** and many others. In the future is intended to apply **Machine Learning** methods to predict market trends and analyze possible buying gaps.
 
@@ -23,7 +23,7 @@ Este projeto é o início de uma série de análises financeiras utilizando Pyth
 5. Identificar bons momentos de compra das ações analisadas.
 
 
-## Ferramentas e Bibliotecas Utilizadas (Libs and Tools)
+## Libs and Tools (Ferramentas e Bibliotecas)
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/): Manipulação e análise de dados.
 - [Numpy](https://numpy.org/): Cálculos numéricos eficientes.
