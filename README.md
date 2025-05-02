@@ -46,20 +46,6 @@ financeiro-analise/
 └── README.md                # Documentação do projeto. Documentation
 ```
 
-## Instalação e Configuração
-1. Clone o repositório do projeto:
-   ```bash
-   git clone https://github.com/lgregs/FinancialReports.git
-   cd FinancialReports
-   ```
-
-2. Instale as dependências necessárias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Execute o notebook em um ambiente Jupyter ou Colab.
-
 ## Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou quiser implementar novas funcionalidades, fique à vontade!
 
